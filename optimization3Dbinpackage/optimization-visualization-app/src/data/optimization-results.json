@@ -1,0 +1,23 @@
+{
+  "local_minima": [
+    {
+      "x": 2.0,
+      "y": 2.0,
+      "value": -0.4161468365471424
+    },
+    {
+      "x": -1.0,
+      "y": -1.0,
+      "value": 0.5403023058681398
+    }
+  ],
+  "global_minima": [
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "value": 1.0
+    }
+  ],
+  "function_name": "complex_function_2",
+  "description": "Results from optimization algorithms applied to complex_function_2, which is defined as sin(x) + cos(y)."
+}
